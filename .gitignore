@@ -1,3 +1,9 @@
+.vscode/
+Objects/
+Listings/
+*.Jonty
+*.uvopt
+
 # Prerequisites
 *.d
 
